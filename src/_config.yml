@@ -1,0 +1,12 @@
+# Site settings
+title: SF6 Notes
+description: ストリートファイター6のメモ
+
+# Build settings
+markdown: kramdown
+
+# Exclude files from build
+exclude:
+  - .kiro
+  - README.md
+  - LICENSE

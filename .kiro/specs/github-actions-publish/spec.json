@@ -1,0 +1,22 @@
+{
+  "feature_name": "github-actions-publish",
+  "created_at": "2026-02-14T04:58:01Z",
+  "updated_at": "2026-02-14T05:22:42Z",
+  "language": "ja",
+  "phase": "implementation",
+  "approvals": {
+    "requirements": {
+      "generated": true,
+      "approved": true
+    },
+    "design": {
+      "generated": true,
+      "approved": true
+    },
+    "tasks": {
+      "generated": true,
+      "approved": true
+    }
+  },
+  "ready_for_implementation": true
+}
